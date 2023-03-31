@@ -1,0 +1,9 @@
+Załóżmy, że typ int zajmuje 4 bajty. Na ile sposobów można umieścić w pamięci pod adresem p wartość 1 typu int? Zadanie rozwiąż w pliku sposoby.txt.
+
+p -> [1][ ][ ][ ]   *p = 1
+
+p -> [ ][1][ ][ ]   *p = 1
+
+p -> [ ][ ][1][ ]   *p = 1
+
+p -> [ ][ ][ ][1]   *p = 1

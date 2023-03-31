@@ -1,0 +1,9 @@
+Procesory w architekturze little-endian czytają młodsze bajty (LSB – least significant byte) od lewej do prawej. Procesory w architekturze big-endian czytają starsze bajty (MSB – most significant byte) od lewej do prawej.  Załóżmy, że pod adresem p znajduje się liczba 5 typu int. Wypełnij komórki pamięci odpowiednimi wartościami dla obu architektur.
+
+little-endian
+
+p -> [5][0][0][0]   *p = 5
+
+big-endian
+
+p -> [0][0][0][5]   *p = 5

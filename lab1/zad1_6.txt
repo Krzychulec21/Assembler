@@ -1,0 +1,8 @@
+Jaki obszar pamięci można zaadresować przy pomocy adresów 16, 20, 24, 32, 40, 48 i 64 bitowych?
+Adres 16 bitowy -> 64 KB
+Adres 20 bitowy -> 1 MB
+Adres 24 bitowy -> 16 MB
+Adres 32 bitowy -> 4 GB
+Adres 40 bitowy -> 1 TB
+Adres 48 bitowy -> 256 TB
+Adres 64 bitowy -> 2^64 B
