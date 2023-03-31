@@ -1,0 +1,8 @@
+Która z poniższych odpowiedzi jest prawdziwa:
+
+- system 32 bitowy pozwala na uruchamianie programu 32 bitowego
+- system 32 bitowy pozwala na uruchamianie programu 64 bitowego
+- system 64 bitowy pozwala na uruchamianie programu 32 bitowego
+- system 64 bitowy pozwala na uruchamianie programu 64 bitowego
+
+odp: Poprawna odpowiedź to A C D

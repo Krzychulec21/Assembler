@@ -1,0 +1,8 @@
+Która z poniższych odpowiedzi jest fałszywa:
+
+- na systemie 32 bitowym można skompilować program do kodu 32 bitowego
+- na systemie 32 bitowym można skompilować program do kodu 64 bitowego
+- na systemie 64 bitowym można skompilować program do kodu 32 bitowego
+- na systemie 64 bitowym można skompilować program do kodu 64 bitowego
+
+B
