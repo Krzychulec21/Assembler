@@ -1,0 +1,2 @@
+- ile bajtów zajmują adresy w kodzie 32 bitowym? -> 4 bajtów (32/8=4)
+- ile bajtów zajmują adresy w kodzie 64 bitowym? -> 8 bajtów (64/8=8)
